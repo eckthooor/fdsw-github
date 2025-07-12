@@ -11,6 +11,11 @@ body {
   background-position: left;
 }
 
+.fondotexto-slide {
+  background-color: #00000059;
+  padding: 10px;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
